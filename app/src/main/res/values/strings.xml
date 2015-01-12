@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Global
+    -->
+    <string name="app_name">FacebookTest</string>
+
+    <!--
+        Menu entries
+    -->
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+
+    <!--
+        Activity Titles
+    -->
+    <string name="activity_name_overview">Facebook Test</string>
+    <string name="activity_name_facebook_login">Facebook Login</string>
+    <string name="activity_name_splash">Facebook Login Test</string>
+
+</resources>
